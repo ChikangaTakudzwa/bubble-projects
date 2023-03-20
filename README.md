@@ -25,4 +25,6 @@ Making the resume: The user may click the "See Resume" button after submitting t
 ![Alt text](/images/resumeforge/response_table.PNG)
 
 # [Node.js API](https://github.com/ChikangaTakudzwa/resumeforge)
+![Alt text](server.PNG)
+
 Node.js API: Based on the parameters given through the API static call, text is generated using the Node.js API in conjunction with OpenAI language models. The API is currently initialized using static data that was provided by the Bubble API connector. The answer must be a JSON object, like the server expects.
